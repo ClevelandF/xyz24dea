@@ -1,0 +1,26 @@
+{
+    "id": "0C69326C",
+    "path": "~/Projects/DE Upgrade Project/AIGithub/DistributionExplorer/user_upload_code/convert_IDI_to_user_uploads.R",
+    "project_path": "user_upload_code/convert_IDI_to_user_uploads.R",
+    "type": "r_source",
+    "hash": "3374981846",
+    "contents": "",
+    "dirty": false,
+    "created": 1718934692553.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "43,1",
+        "scrollLine": "27"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1721771864,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1721771864279,
+    "read_only": false,
+    "read_only_alternatives": []
+}

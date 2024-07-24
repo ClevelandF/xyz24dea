@@ -1,0 +1,28 @@
+{
+    "id": "C0BF0723",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1716419944713.0,
+    "source_on_save": false,
+    "relative_order": 6,
+    "properties": {
+        "id": "768644f2e21b4d65871b77e71076983a",
+        "name": "data_versions",
+        "title": "data_versions",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 2034127722680,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1716419944713,
+    "read_only": false,
+    "read_only_alternatives": []
+}
