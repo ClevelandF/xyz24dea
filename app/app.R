@@ -481,7 +481,7 @@ ui <- (
         ),
         conditionalPanel(
           condition = "input.y_type == 'Income Components'",
-          p(em("*Income components represent the average amount per population unit in each quantile/band, and are rounded to the nearest $1000. Thus, if the amount recieved on average by population units in each ventile/income band is too small, the income component will not be displayed. It may be useful to select a more targeted population subgroup to explore the contribution of this component to incomes."))
+          p(em("*Income components represent the average amount per population unit in each quantile/band, and are rounded to the nearest $1000. Thus, if the amount received on average by population units in each ventile/income band is too small, the income component will not be displayed. It may be useful to select a more targeted population subgroup to explore the contribution of this component to incomes."))
         )
       ),
       
