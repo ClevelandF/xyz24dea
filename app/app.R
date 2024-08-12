@@ -636,7 +636,7 @@ ui <- (
              tags$li(strong("With children"),"indicates that there are children in the ‘population unit’."),
              tags$li(strong("Without children"),"indicates that there are no children in the ‘population unit’.")),
            
-           p("The subgroups structure groups are not only available for individuals,"),
+           p("The following subgroups are only available for individuals,"),
            tags$ul(
              tags$li(strong("Single (not living with partner)"),"indicates that an individual is single, or is in a relationship but not living in a household with their partner. Individuals only."),
              tags$li(strong("Living with partner"),"indicates that an individual is living in a household with their partner. Individuals only.")),
