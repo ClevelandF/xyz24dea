@@ -51,8 +51,7 @@ I_IC <- c(
 cbPalette <- c("#00718f", "#E69F00",  "#009E73", "#F0E442", "#56B4E9", "#D55E00", "#CC79A7", "#000000")
 ui <- (
   navbarPage(
-  windowTitle = "DistributionExplorer",
-  title = imageOutput("logo", height = 0), 
+  title = "DistributionExplorer", 
   theme = bslib::bs_theme(bootswatch = "cosmo",
                           bg = "#FFFFFF",
                           fg = "#00718f",
@@ -753,12 +752,6 @@ server <- function(input, output, session) {
   
   #increase allowed upload size
   options(shiny.maxRequestSize=500*1024^2)
-  
-  #logo
-  output$logo <- renderImage({
-    list(src = "images/logo_full.png", height = "30px")},
-    deleteFile = FALSE
-  )
   
   #stops normalised selection from preventing switch to income mode
   observeEvent(input$y_type %in% c("Income", "Income Components"), {
